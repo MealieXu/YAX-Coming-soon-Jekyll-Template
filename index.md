@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Your Awesome Site"
+title: "Mealie Xu's Blog"
 excerpt: "A Coming Soon Template"
 ---
 # Website is coming soon

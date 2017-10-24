@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: /
-title: "Mealie Xu's Blog"
+title: "Mealie Xu's Blog 小米.飞鸟.游鱼"
 excerpt: "A Coming Soon Template"
 ---
 # Website is coming soon
-Tell the users that your website is not active yet. Put the reason to subscribe for the notification in this paragraph. Tell them about their problems which you would like to solve. Don’t forget the final call to action.
+This website is not active yet. 该网页还在建设中。。。。。。BY 徐米粒
